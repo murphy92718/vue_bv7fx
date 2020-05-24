@@ -1,0 +1,7 @@
+{
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 75,
+    "trailingComma": "none"
+}
